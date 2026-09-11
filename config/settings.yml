@@ -3,3 +3,4 @@ posting:
     client: true
     default: 32000
     max: 500000
+    area: "posts_and_topics"
